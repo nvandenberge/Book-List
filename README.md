@@ -1,3 +1,5 @@
 # Book-List
 
-Application that allows a user to create a list of books to read. 
+Book-List allows users to create a list of books to read. 
+
+The purpose of this application was to practice Object-Oriented Programming.
